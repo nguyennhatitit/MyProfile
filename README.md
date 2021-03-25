@@ -1,4 +1,4 @@
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Hieu
+### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> there, I'm Nhat
 
 I'm a passionate self-taught Full Stack web developer and a freelance software engineer from VietNam. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -8,7 +8,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [hieulexuan629@gmail.com]
+- 📫 How to reach me: [nguyennhatit95@gmail.com]
 - 📝 [Resume]
 
 **Languages and Tools:**  
